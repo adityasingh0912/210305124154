@@ -1,0 +1,16 @@
+{
+    "companyName": "Affordmed Technologies",
+    "clientID": "b0f22f7c-4a11-482f-870a-db4b4153020b",
+    "clientSecret": "DHNveIkoRDtDdYsX",
+    "ownerName": "Aditya",
+    "ownerEmail": "210305124154@paruluniversity.ac.in",
+    "rollNo": "210305124154"
+}
+
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzE4Nzc0NDIzLCJpYXQiOjE3MTg3NzQxMjMsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImIwZjIyZjdjLTRhMTEtNDgyZi04NzBhLWRiNGI0MTUzMDIwYiIsInN1YiI6IjIxMDMwNTEyNDE1NEBwYXJ1bHVuaXZlcnNpdHkuYWMuaW4ifSwiY29tcGFueU5hbWUiOiJBZmZvcmRtZWQgVGVjaG5vbG9naWVzIiwiY2xpZW50SUQiOiJiMGYyMmY3Yy00YTExLTQ4MmYtODcwYS1kYjRiNDE1MzAyMGIiLCJjbGllbnRTZWNyZXQiOiJESE52ZUlrb1JEdERkWXNYIiwib3duZXJOYW1lIjoiQWRpdHlhIiwib3duZXJFbWFpbCI6IjIxMDMwNTEyNDE1NEBwYXJ1bHVuaXZlcnNpdHkuYWMuaW4iLCJyb2xsTm8iOiIyMTAzMDUxMjQxNTQifQ.hX5kN_TQ-2cB2KXzf7_Ci6fD4WdqECrdhMuyn-1a2FA",
+    "expires_in": 1718774423
+}
